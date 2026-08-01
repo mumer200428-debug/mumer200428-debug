@@ -19,8 +19,6 @@ I'm a Software Engineering student from Islamabad, Pakistan 🇵🇰, focused on
 - ⚙️ Automating workflows with **n8n** and **Make.com**
 - 🌐 Developing full-stack apps with **FastAPI** + **Next.js**
 - 📊 Working with data using **Pandas**, **NumPy**, and **PostgreSQL**
-- 🎯 Currently building **JobSpark** — an AI-powered job board platform with a built-in Career Assistant
-
 ---
 
 ## 🛠️ Tech Stack
